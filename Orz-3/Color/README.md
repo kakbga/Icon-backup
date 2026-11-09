@@ -1,5 +1,5 @@
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/头部.png)
 
 ## mini项目
 
@@ -17,26 +17,26 @@
 
 🔘彩色版本 `https://raw.githubusercontent.com/Orz-3/task/master/name.png`
 
-🔘透明版本 `https://raw.githubusercontent.com/Orz-3/mini/master/name.png`
+🔘透明版本 `https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/name.png`
 
   **注：** task图标的透明和彩色版本文件名完全一致，仅所在库不同
 
 ##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，请将使用方法中的name.png替换成相应文件的文件名
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c1.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c2.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c3.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c4.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c5.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c5.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c6.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c6.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c7.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/c7.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
+![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/yaofan.png)
 
 
