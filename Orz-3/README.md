@@ -8,9 +8,15 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 
 ## 使用说明
 
-🔘彩色版本 https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/Color/Quremini.json
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/Color+.json
 
-🔘透明版本 https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/Alpha/Quremini.json
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/mini+.json
+
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/mini.json
+
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/miniAlpha.json
+
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/miniColor.json
 
 
   **注：** task图标的透明和彩色版本文件名完全一致，仅所在库不同
