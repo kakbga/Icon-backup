@@ -1,14 +1,14 @@
 # Qure<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Logo.png)
+![Image text](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Qure/Other/Qure_Logo.png)
 <br>
 
 ## 简介
 Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。<br>
 
 ## 使用说明
-「PROXY」订阅推荐使用Qure mini(纯白)图标集：https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json
+「PROXY」订阅推荐使用Qure mini(纯白)图标集：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Qure/Other/Quremini.json
 
-「自定义策略」订阅推荐使用Qure Color(彩色)图标集：https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
+「自定义策略」订阅推荐使用Qure Color(彩色)图标集：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Qure/Other/QureColor.json
 
 ## 补充说明
 转载请注明出处，谢谢！<br>
@@ -85,7 +85,7 @@ Quantumult X最美简雅风策略组图标现以Qure全新呈现<br>
 </details>
 
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)
+[查看大图](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Qure/Other/Qure_Preview_All.png)<br>
+![Image text](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Qure/Other/Qure_Preview_All.png)
 
 ![Koolson's github stats](https://github-readme-stats.vercel.app/api?username=koolson&show_icons=true&theme=vue-dark)
