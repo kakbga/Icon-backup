@@ -15,7 +15,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 
   **注：** task图标的透明和彩色版本文件名完全一致，仅所在库不同
 
-##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，请将使用方法中的name.png替换成相应文件的文件名
+## 效果图预览
 
 ![示例](https://raw.githubusercontent.com/kakbga/Icon-backup/main/Orz-3/none/机场.png)
 
