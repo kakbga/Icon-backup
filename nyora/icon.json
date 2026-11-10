@@ -1,6 +1,7 @@
 {
     "name": "GitHub@Vaerios",
     "icons": [
+         { "name": "Acher", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/Acher.png"},
          { "name": "AI+", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/AI+.png"},
          { "name": "AI", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/AI.png"},
          { "name": "Australia", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/Australia.png"},
@@ -42,7 +43,6 @@
          { "name": "X", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/X.png"},
          { "name": "YouTube", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/YouTube.png"},
          { "name": "Adobe", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/Adobe.png"},
-         { "name": "HiSuio", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/HiSuio.png"},
          { "name": "Microsoft", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/Microsoft.png"},
          { "name": "UnitedStates", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/UnitedStates.png"},
          { "name": "Apple", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon/Apple.png"}
