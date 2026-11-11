@@ -1,5 +1,5 @@
 # 图标仓库备份
-![Badge](https://img.shields.io/badge/version-v1.0.0-blue?logo=github&style=flat)
+
 本仓库备份了以下图标资源：
 
 | 目录 | 来源仓库 |
