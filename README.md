@@ -6,9 +6,9 @@
 | --- | --- |
 | `Orz-3` | [Orz-3/mini](https://github.com/Orz-3/mini) |
 | `Qure` | [Koolson/Qure](https://github.com/Koolson/Qure) |
+| `Lige` | [Lige/lige_icon](https://github.com/lige47/lige_icon) |
 | `Nyora` | [Vaerios/Nyora](https://github.com/Vaerios/Nyora) |
 | `Oasisic` | [Hawaiine/Oasisic-Icons](https://github.com/Hawaiine/Oasisic-Icons) |
-| `Lige` | [Lige/lige_icon](https://github.com/lige47/lige_icon) |
 
 图标版权及使用说明请参阅各来源仓库的说明文件。
 
