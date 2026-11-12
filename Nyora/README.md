@@ -1,17 +1,17 @@
 
 
 ## 简介
-Lige 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。
+Nyora 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。
 
 
 ## 使用说明
 
-🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons.json
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Nyora/icons.json
 
 
 ## 免责声明
-1. Lige 项目内所涉及图标、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用 Lige 项目做任何商业用途或牟利；
+1. Nyora 项目内所涉及图标、Nyora 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用 Nyora 项目做任何商业用途或牟利；
 2. 遵循避风港原则，若有图片和内容侵权，请在 Issues 告知，核实后删除，其版权均归原作者及其网站所有；
 3. 本人不对任何内容承担任何责任，包括但不限于任何内容错误导致的任何损失、损害；
-4. 其它人通过任何方式登陆本网站或直接、间接使用 Lige 项目相关资源，均应仔细阅读本声明，一旦使用、转载 Lige 项目任何相关教程或资源，即被视为您已接受此免责声明。
+4. 其它人通过任何方式登陆本网站或直接、间接使用 Nyora 项目相关资源，均应仔细阅读本声明，一旦使用、转载 Nyora 项目任何相关教程或资源，即被视为您已接受此免责声明。
 
