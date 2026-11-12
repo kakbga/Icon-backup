@@ -6,7 +6,7 @@ Nyora 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-
 
 ## 使用说明
 
-🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/nyora/icon.json
+🔘订阅地址：https://raw.githubusercontent.com/kakbga/Icon-backup/main/Nyora/icon.json
 
 
 ## 免责声明
