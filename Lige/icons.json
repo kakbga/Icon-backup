@@ -1,6 +1,6 @@
 {
-  "name": "Lige-Icons",
-  "description": "By Lige",
+  "name": "Oasisic-Icons",
+  "description": "By Hawaiine",
   "icons": [
     { "name": "Argentina", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/Argentina.png" },
     { "name": "Argentina(1)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/Argentina(1).png" },
@@ -12,6 +12,8 @@
     { "name": "Brasil(1)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/Brasil(1).png" },
     { "name": "Brasil(2)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/Brasil(2).png" },
     { "name": "chinese", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/chinese.png" },
+    { "name": "chinese(1)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/chinese(1).png" },
+    { "name": "chinese(2)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/chinese(2).png" },
     { "name": "EuropeanUnion", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/EuropeanUnion.png" },
     { "name": "EuropeanUnion(1)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/EuropeanUnion(1).png" },
     { "name": "EuropeanUnion(2)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/EuropeanUnion(2).png" },
@@ -60,8 +62,6 @@
     { "name": "singapore(2)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/singapore(2).png" },
     { "name": "Spain", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/Spain.png" },
     { "name": "Spain(2)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/Spain(2).png" },
-    { "name": "taiwan", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/taiwan.png" },
-    { "name": "taiwan(1)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/taiwan(1).png" },
     { "name": "taiwan(2)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/taiwan(2).png" },
     { "name": "taiwan(3)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/taiwan(3).png" },
     { "name": "taiwan(4)", "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/Lige/icons/01Country/taiwan(4).png" },
