@@ -1,0 +1,578 @@
+{
+  "name": "NetKit Icons",
+  "description": "PNG icons for apps, regions, and proxy groups.",
+  "icons": [
+    {
+      "name": "Amazon",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Amazon.png"
+    },
+    {
+      "name": "AmazonMusic",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/AmazonMusic.png"
+    },
+    {
+      "name": "anigamer",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/anigamer.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Apple.png"
+    },
+    {
+      "name": "AppleRadio",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/AppleRadio.png"
+    },
+    {
+      "name": "AppleTV",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/AppleTV.png"
+    },
+    {
+      "name": "AppStore",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/AppStore.png"
+    },
+    {
+      "name": "BandwagonHost",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/BandwagonHost.png"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/bilibili.png"
+    },
+    {
+      "name": "Bing",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Bing.png"
+    },
+    {
+      "name": "Clash",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Clash.png"
+    },
+    {
+      "name": "ClashHako",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/ClashHako.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Claude.png"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Cloudflare.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Copilot.png"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/DeepSeek.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Discord.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Disney%2B.png"
+    },
+    {
+      "name": "Docker",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Docker.png"
+    },
+    {
+      "name": "Dropbox",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Dropbox.png"
+    },
+    {
+      "name": "eBay",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/eBay.png"
+    },
+    {
+      "name": "Egern",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Egern.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Emby.png"
+    },
+    {
+      "name": "EpicGames",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/EpicGames.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Facebook.png"
+    },
+    {
+      "name": "FlClash",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/FlClash.png"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Gemini.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/GitHub.png"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/GitLab.png"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Gmail.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Google.png"
+    },
+    {
+      "name": "GoogleCloud",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/GoogleCloud.png"
+    },
+    {
+      "name": "GoogleDrive",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/GoogleDrive.png"
+    },
+    {
+      "name": "HBOMax",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/HBOMax.png"
+    },
+    {
+      "name": "Hiddify",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Hiddify.png"
+    },
+    {
+      "name": "HomeKit",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/HomeKit.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Hulu.png"
+    },
+    {
+      "name": "iCloud",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/iCloud.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Instagram.png"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/iQIYI.png"
+    },
+    {
+      "name": "JD",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/JD.png"
+    },
+    {
+      "name": "KakaoTalk",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/KakaoTalk.png"
+    },
+    {
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Line.png"
+    },
+    {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Loon.png"
+    },
+    {
+      "name": "MangoTV",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/MangoTV.png"
+    },
+    {
+      "name": "McDonalds",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/McDonalds.png"
+    },
+    {
+      "name": "Messenger",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Messenger.png"
+    },
+    {
+      "name": "Meta",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Meta.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Microsoft.png"
+    },
+    {
+      "name": "Mihomo",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Mihomo.png"
+    },
+    {
+      "name": "Muse",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Muse.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Netflix.png"
+    },
+    {
+      "name": "Notion",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Notion.png"
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/OneDrive.png"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/OpenAI.png"
+    },
+    {
+      "name": "OracleCloud",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/OracleCloud.png"
+    },
+    {
+      "name": "Paramount+",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Paramount%2B.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/PayPal.png"
+    },
+    {
+      "name": "PikPak",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/PikPak.png"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Pinterest.png"
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/PlayStation.png"
+    },
+    {
+      "name": "PrimeVideo",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/PrimeVideo.png"
+    },
+    {
+      "name": "QuantumultX",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/QuantumultX.png"
+    },
+    {
+      "name": "Quark",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Quark.png"
+    },
+    {
+      "name": "RackNerd",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/RackNerd.png"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Reddit.png"
+    },
+    {
+      "name": "Rockstar",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Rockstar.png"
+    },
+    {
+      "name": "SamsClub",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/SamsClub.png"
+    },
+    {
+      "name": "Shadowrocket",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Shadowrocket.png"
+    },
+    {
+      "name": "sing-box",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/sing-box.png"
+    },
+    {
+      "name": "Slack",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Slack.png"
+    },
+    {
+      "name": "SpeedTest",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/SpeedTest.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Spotify.png"
+    },
+    {
+      "name": "Starbucks",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Starbucks.png"
+    },
+    {
+      "name": "Stash",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Stash.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Steam.png"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Surge.png"
+    },
+    {
+      "name": "Teams",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Teams.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Telegram.png"
+    },
+    {
+      "name": "TelegramClassic",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/TelegramClassic.png"
+    },
+    {
+      "name": "Threads",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Threads.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/TikTok.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Twitch.png"
+    },
+    {
+      "name": "Walmart",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Walmart.png"
+    },
+    {
+      "name": "WeTV",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/WeTV.png"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/WhatsApp.png"
+    },
+    {
+      "name": "WireGuard",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/WireGuard.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/X.png"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Xbox.png"
+    },
+    {
+      "name": "YOUKU",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/YOUKU.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/YouTube.png"
+    },
+    {
+      "name": "YouTubeMusic",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/YouTubeMusic.png"
+    },
+    {
+      "name": "Zoom",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Zoom.png"
+    },
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/AI.png"
+    },
+    {
+      "name": "Airport",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Airport.png"
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Auto.png"
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Direct.png"
+    },
+    {
+      "name": "Domestic",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Domestic.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Download.png"
+    },
+    {
+      "name": "Earth",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Earth.png"
+    },
+    {
+      "name": "Fallback",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Fallback.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Final.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Game.png"
+    },
+    {
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Global.png"
+    },
+    {
+      "name": "LoadBalance",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/LoadBalance.png"
+    },
+    {
+      "name": "Planet",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Planet.png"
+    },
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Proxy.png"
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Reject.png"
+    },
+    {
+      "name": "Select",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Select.png"
+    },
+    {
+      "name": "Shopping",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Shopping.png"
+    },
+    {
+      "name": "Social",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Social.png"
+    },
+    {
+      "name": "Streaming",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Streaming.png"
+    },
+    {
+      "name": "Test",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Test.png"
+    },
+    {
+      "name": "UrlTest",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/UrlTest.png"
+    },
+    {
+      "name": "AE",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/AE.png"
+    },
+    {
+      "name": "AR",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/AR.png"
+    },
+    {
+      "name": "AU",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/AU.png"
+    },
+    {
+      "name": "BR",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/BR.png"
+    },
+    {
+      "name": "CA",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/CA.png"
+    },
+    {
+      "name": "CH",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/CH.png"
+    },
+    {
+      "name": "CN",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/CN.png"
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/DE.png"
+    },
+    {
+      "name": "FI",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/FI.png"
+    },
+    {
+      "name": "FR",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/FR.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/HK.png"
+    },
+    {
+      "name": "IN",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/IN.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/KR.png"
+    },
+    {
+      "name": "MO",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/MO.png"
+    },
+    {
+      "name": "MY",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/MY.png"
+    },
+    {
+      "name": "NG",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/NG.png"
+    },
+    {
+      "name": "NL",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/NL.png"
+    },
+    {
+      "name": "PH",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/PH.png"
+    },
+    {
+      "name": "PL",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/PL.png"
+    },
+    {
+      "name": "SE",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/SE.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/SG.png"
+    },
+    {
+      "name": "TH",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/TH.png"
+    },
+    {
+      "name": "TR",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/TR.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/TW.png"
+    },
+    {
+      "name": "UA",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/UA.png"
+    },
+    {
+      "name": "UK",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/UK.png"
+    },
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/US.png"
+    },
+    {
+      "name": "VN",
+      "url": "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/VN.png"
+    }
+  ]
+}

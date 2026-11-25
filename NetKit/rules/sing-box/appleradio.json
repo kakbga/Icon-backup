@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "radio.itunes.apple.com",
+        "ihrhls.com",
+        "iheart.com",
+        "amperwave.net",
+        "bbc.co.uk",
+        "bbci.co.uk"
+      ]
+    }
+  ]
+}

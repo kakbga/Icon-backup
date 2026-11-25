@@ -1,0 +1,8 @@
+# NAME: appleradio
+payload:
+  - DOMAIN-SUFFIX,radio.itunes.apple.com
+  - DOMAIN-SUFFIX,ihrhls.com
+  - DOMAIN-SUFFIX,iheart.com
+  - DOMAIN-SUFFIX,amperwave.net
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbci.co.uk
