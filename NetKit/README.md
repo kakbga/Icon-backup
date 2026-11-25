@@ -11,7 +11,7 @@ Transparent PNG icons for apps, regions, and proxy groups.
 
 | 应用 · Apps | 地区 · Regions | 策略组 · Proxy groups |
 | :---: | :---: | :---: |
-| [<img src="icon/apps/Spotify.png" alt="Spotify" width="64" height="64">](https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/main/icon/apps/Spotify.png) | [<img src="icon/flags/US.png" alt="US" width="64" height="64">](https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/main/icon/flags/US.png) | [<img src="icon/groups/Planet.png" alt="Planet" width="64" height="64">](https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/main/icon/groups/Planet.png) |
+| [<img src="icon/apps/Spotify.png" alt="Spotify" width="64" height="64">](https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/apps/Spotify.png) | [<img src="icon/flags/US.png" alt="US" width="64" height="64">](https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/flags/US.png) | [<img src="icon/groups/Planet.png" alt="Planet" width="64" height="64">](https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Planet.png) |
 
 点击上方预览可直接打开对应的 Raw 图片。
 
@@ -24,7 +24,7 @@ Transparent PNG icons for apps, regions, and proxy groups.
 Mihomo 策略组示例：
 
 ```yaml
-icon: https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/main/icon/groups/Planet.png
+icon: https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Planet.png
 ```
 
 [更多图标使用说明](icon/README.md)
