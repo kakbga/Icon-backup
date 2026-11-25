@@ -8,7 +8,7 @@
 | `Qure` | [Koolson/Qure](https://github.com/Koolson/Qure) |
 | `Lige` | [Lige/lige_icon](https://github.com/lige47/lige_icon) |
 | `Nyora` | [Vaerios/Nyora](https://github.com/Vaerios/Nyora) |
-| `NetKit` | [/jennieveloramae/NetKit](https://github.com/jennieveloramae/NetKit) |
+| `NetKit` | [jennieveloramae/NetKit](https://github.com/jennieveloramae/NetKit) |
 | `Oasisic` | [Hawaiine/Oasisic-Icons](https://github.com/Hawaiine/Oasisic-Icons) |
 
 图标版权及使用说明请参阅各来源仓库的说明文件。
