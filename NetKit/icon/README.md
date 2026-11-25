@@ -21,7 +21,7 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
-    icon: https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/main/icon/groups/Planet.png
+    icon: https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/icon/groups/Planet.png
 ```
 
 ## Updates · 更新图标
