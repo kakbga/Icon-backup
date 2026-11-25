@@ -4,7 +4,7 @@
 
 适用于 Mihomo、sing-box、Surge、Quantumult X、Loon、Egern 等网络代理客户端。
 
-**[在线浏览和搜索图标](https://kakbga.github.io/NetKit/)**
+**[在线浏览和搜索图标](https://kakbga.github.io/Icon-backup/main/NetKit/)**
 
 - 规格为 144 × 144 的透明 PNG。
 - [Apps](apps/) 用于应用与服务，[Flags](flags/) 用于地区，[Groups](groups/) 用于策略组。
