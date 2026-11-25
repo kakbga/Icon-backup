@@ -9,7 +9,7 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = ("apps", "groups", "flags")
-RAW_ROOT = "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/main/"
+RAW_ROOT = "https://raw.githubusercontent.com/kakbga/Icon-backup/main/NetKit/"
 
 
 def build(output):
